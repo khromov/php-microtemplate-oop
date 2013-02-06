@@ -1,0 +1,32 @@
+{
+    "name": "khromov/php-microtemplate-oo",
+    "type": "library",
+    "description": "Micro templating engine in PHP for rapid prototyping and development of web applications.",
+    "keywords":
+	[
+        "template",
+        "template engine",
+        "php templates"
+	],
+    "homepage": "https://github.com/khromov/php-microtemplate-oo",
+    "authors":
+    [
+        {
+            "name": "Stanislav Khromov",
+            "email": "stanislav.khromov@gmail.com",
+            "homepage": "http://khromov.wordpress.com",
+			"role": "Developer"
+        }
+    ],
+    "require":
+    {
+        "php": ">=5.3"
+    },
+    "autoload":
+    {
+        "files":
+        [
+            "lib/microtemplate.class.php"
+        ]
+    }
+}
