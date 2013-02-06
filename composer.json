@@ -4,9 +4,9 @@
     "description": "Micro templating framework in PHP for rapid prototyping of HTML layouts.",
     "keywords":
 	[
-        "template",
-        "template engine",
-        "phptemplate"
+		"template",
+		"template engine",
+		"phptemplate"
 	],
     "homepage": "https://github.com/khromov/php-microtemplate-oo",
     "authors":
@@ -15,7 +15,7 @@
             "name": "Stanislav Khromov",
             "email": "stanislav.khromov@gmail.com",
             "homepage": "http://khromov.wordpress.com",
-            "role": "Developer"
+			"role": "Developer"
         }
     ],
     "require":
