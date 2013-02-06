@@ -61,7 +61,7 @@
 				//If suppress_errors = true, don't do anything
 			}		
 
-			return ob_get_clean();			
+			return ob_get_clean();	
 		}
 		
 		function short_open_tag_enabled()
