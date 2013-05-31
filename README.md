@@ -1,4 +1,4 @@
-php-microtemplate
+php-microtemplate-oo
 =====================
 
 An Object-Oriented version of php-microtemplate:
